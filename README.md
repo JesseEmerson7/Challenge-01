@@ -14,7 +14,7 @@ Open web page in any preferred browser and navigate through all our brand offers
 
 Acesss live webpage at: https://jesseemerson7.github.io/Horiseon-Home-screen/
 
-![alt text]()
+![alt text](./asseets/images/Screenshot 2023-03-22 170143.png)
 
 ## Credits
 
