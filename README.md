@@ -14,7 +14,7 @@ Open web page in any preferred browser and navigate through all our brand offers
 
 Acesss live webpage at: https://jesseemerson7.github.io/Horiseon-Home-screen/
 
-<img src="/assets/imgages/01-html-css-git-homework-demo" alt="Horiseon Home Screen" title="Horiseon Home Screen">
+<img src="/assets/imgages/01-html-css-git-homework-demo.png" alt="Horiseon Home Screen" title="Horiseon Home Screen">
 
 ## Credits
 
