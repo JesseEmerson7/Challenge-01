@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/*side bar benefits*/
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,6 +135,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end*/
+/*Main content of services*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,6 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end*/
 
 footer {
     padding: 30px;
